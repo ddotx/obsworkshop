@@ -101,3 +101,13 @@ follow the following steps and checkout the branch `step2`.
 
 - `git stash`
 - `git checkout step2`
+
+# NG CONF
+
+- [ ] First Observable
+- [ ] Single Use vs Multiple Use
+- [ ] Eager vs Lazy
+- [ ] Cancelable
+- [ ] Multicasting
+- [ ] Chaining
+- [ ] Complete vs Incomplete
